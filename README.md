@@ -1,13 +1,13 @@
 ## Olá, seja bem vindo ao meu perfil!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-siqueira-916811162/)](https://www.linkedin.com/in/jonathan-siqueira-916811162/) 
 
- - Sou Graduado em Publicidade e Propaganda, pela Estácio e Programador FullStack, pela RecodePro.
+ Sou Graduado em Publicidade e Propaganda, pela Estácio e Programador FullStack, pela RecodePro.
   
- - Já desenvolvi projetos usando NodeJs, PHP, ReactJS, Python, HTML, CSS, Javascript e Mysql.
+ Já desenvolvi projetos usando NodeJs, PHP, ReactJS, Python, HTML, CSS, Javascript e Mysql.
   
- - Se estiver interessado, é só visitar o meu Linkedin.
+ Se estiver interessado, é só visitar o meu Linkedin.
  
- - <strong>Essas são as linguagens utilizadas em meu projeto:</strong>  
+ <strong>Essas são as linguagens utilizadas em meu projeto:</strong>  
 ![React](https://img.shields.io/badge/-React-%23F7DF1C?style=flat-square&logo=react&logoColor=ffffff&labelColor=blue&color=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
