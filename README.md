@@ -1,5 +1,5 @@
 ## Olá, seja bem vindo ao meu perfil!
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-siqueira-916811162/)](https://www.linkedin.com/in/jonathan-siqueira-916811162/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jgssiqueira/)](https://www.linkedin.com/in/jgssiqueira/) 
 
  Sou Graduado em Publicidade e Propaganda, pela Estácio e Programador FullStack, pela RecodePro.
   
