@@ -1,4 +1,4 @@
-## Olá, seja bem vindo ao meu perfil!
+## Olá, seja bem vindo ao meu perfil! 🖖🏻😎
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jgssiqueira/)](https://www.linkedin.com/in/jgssiqueira/)
 
  - Meu nome é Jonathan, sou do Rio de Janeiro, RJ. Brasil.
