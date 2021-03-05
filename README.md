@@ -1,11 +1,13 @@
 ## Olá, seja bem vindo ao meu perfil!
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jgssiqueira/)](https://www.linkedin.com/in/jgssiqueira/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jgssiqueira/)](https://www.linkedin.com/in/jgssiqueira/)
 
- Sou Graduado em Publicidade e Propaganda, pela Estácio e Programador FullStack, pela RecodePro.
+ - Meu nome é Jonathan, sou do Rio de Janeiro, RJ. Brasil.
+
+ - Sou Formado em Publicidade e Propaganda, pela Estácio e Programador FullStack, pela RecodePro.
   
- Já desenvolvi projetos usando NodeJs, PHP, ReactJS, Python, HTML, CSS, Javascript e Mysql.
+ - Já desenvolvi projetos usando NodeJs, PHP, ReactJS, Python, HTML, CSS, Javascript e Mysql.
   
- Se estiver interessado, é só visitar o meu Linkedin.
+ - Visite o meu Linkedin para mais informações.
  
  <strong>Essas são as linguagens utilizadas em meu projeto:</strong>  
 ![React](https://img.shields.io/badge/-React-%23F7DF1C?style=flat-square&logo=react&logoColor=ffffff&labelColor=blue&color=blue)
