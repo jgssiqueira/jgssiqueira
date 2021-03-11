@@ -3,7 +3,7 @@
 
  - Meu nome é Jonathan, sou do Rio de Janeiro, RJ. Brasil.
 
- - Sou Formado em Publicidade e Propaganda, pela Estácio e Programador FullStack, pela RecodePro.
+ - Sou Formado em Publicidade e Propaganda, pela Estácio e Desenvolvedor FullStack, pela RecodePro.
   
  - Já desenvolvi projetos usando NodeJs, PHP, ReactJS, Python, HTML, CSS, Javascript e Mysql.
   
